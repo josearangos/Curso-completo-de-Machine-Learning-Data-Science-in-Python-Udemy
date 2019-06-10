@@ -1,0 +1,6 @@
+Paquetes necesarios
+
+Pandas
+
+Numpy
+Matplotlib
